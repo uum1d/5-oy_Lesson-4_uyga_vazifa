@@ -584,6 +584,12 @@ body {
     text-align: center;
     width: 220px;
   }
+  .container header .box .box-1 .input {
+    width: 260px;
+  }
+  .container header .box .box-1 .input input {
+    padding: 10px 20px;
+  }
   .container header .box .box-2 {
     width: 260px;
   }
